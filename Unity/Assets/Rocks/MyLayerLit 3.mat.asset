@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16cbd751b8e1d8e4fb0609a116588ae2, type: 3}
+  m_Name: MyLayerLit 3.mat
+  m_EditorClassIdentifier: 
+  materials:
+  - {fileID: 2100000, guid: 6a5f122ea06729f4bb1631fc8e35e567, type: 2}
+  - {fileID: 2100000, guid: 44a0311a686643f449e61978a009b3c3, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  layercount: 2
+  islayerfold: 1
